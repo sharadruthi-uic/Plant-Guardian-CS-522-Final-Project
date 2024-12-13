@@ -135,13 +135,13 @@ APPLICATION APK LINK: https://drive.google.com/drive/folders/1-Oora51B7cBAIfF9DQ
 
 SOME INSTRUCTIONS FOR THE APPLICATION:
 Please only input any of the following plant types to get personalized suggestions:
-Succulent
-Fern
-Orchid
-Pothos
-Snake Plant
-Monstera
-Peace Lily
-Aloe Vera
-Spider Plant
-Cactus
+- Succulent
+- Fern
+- Orchid
+- Pothos
+- Snake Plant
+- Monstera
+- Peace Lily
+- Aloe Vera
+- Spider Plant
+- Cactus
